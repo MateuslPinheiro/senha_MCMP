@@ -1,0 +1,12 @@
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 129 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 132 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 135 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 138 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 141 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 144 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 147 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 150 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 153 : call of function without prototype
+Warning[2068] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 162 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 162 : default startup code expects main function declared as 'void main (void)'
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\LCD\Senha\Senha.c 193 : call of function without prototype
